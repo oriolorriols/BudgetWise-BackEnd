@@ -1,0 +1,431 @@
+[{
+  "_id": {
+    "$oid": "663e65e3071c321e1a16b5a6"
+  },
+  "email": "angieprueba-hr@example.com",
+  "password": "$2a$10$1yG4kIj30NuTmXSiWS62h.mPQQkiIluKtRGf8oucKhMkLuK.j.zNm",
+  "profileType": "HR",
+  "dni": "87654321T",
+  "name": "Maria",
+  "surname": "Gonzalez Perez",
+  "createdAt": {
+    "$date": "2024-05-10T18:22:27.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T13:08:44.211Z"
+  },
+  "__v": 0,
+  "address": "Calle Madrid, 9",
+  "bankAccount": "ES12 3456 7890 8765",
+  "birthDate": {
+    "$date": "1994-05-08T17:00:00.000Z"
+  },
+  "personalMail": "maria@personal.com",
+  "phoneExt": "442",
+  "phoneNumber": 662332788,
+  "position": "Director",
+  "status": "Alta",
+  "studies": "Psicología",
+  "departmentId": {
+    "$oid": "667329df889b8c45cb8ed351"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "profilePic": "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1717180684/cld-sample.jpg",
+  "confirmed": true,
+  "removedAt": null
+},
+{
+  "_id": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "email": "maria.gonzalez@example.com",
+  "password": "$2a$10$.vgK1hXLjPq/VTl9jGbOq.CvSH8H3uTsxrYddr/zG9sbcE19Wt4.q",
+  "profileType": "Employee",
+  "dni": "87654321B",
+  "name": "Maria",
+  "surname": "Gonzalez Perez",
+  "createdAt": {
+    "$date": "2024-05-10T19:34:57.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:24:34.036Z"
+  },
+  "__v": 0,
+  "position": "Comercial UE",
+  "status": "Baja",
+  "departmentId": {
+    "$oid": "66732f08889b8c45cb8ed5bc"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "address": "Calle Rosas, 3. 28184",
+  "bankAccount": "ES12 0987 0987 6543",
+  "birthDate": {
+    "$date": "1993-03-29T22:00:00.000Z"
+  },
+  "personalMail": "maria@personal.com",
+  "phoneExt": "441",
+  "phoneNumber": 642973601,
+  "studies": "ADE",
+  "profilePic": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "confirmed": true
+},
+{
+  "_id": {
+    "$oid": "663e7719e5cf4bc409c100b2"
+  },
+  "email": "juan.perez@example.com",
+  "password": "$2a$10$l4ECyPhu2hyu8SWB2b535.SPYBWwtgP4GdgbmoaSO6RA0SnEccu1y",
+  "profileType": "Employee",
+  "dni": "7654321C",
+  "name": "Juan",
+  "surname": "Perez Romero",
+  "createdAt": {
+    "$date": "2024-05-10T19:35:53.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-31T12:57:50.853Z"
+  },
+  "__v": 0,
+  "departmentId": {
+    "$oid": "66732f08889b8c45cb8ed5bc"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "address": "Calle Cesped, 76. 28053",
+  "bankAccount": "ES12 6830 2850 2854",
+  "birthDate": {
+    "$date": "1991-01-20T22:00:00.000Z"
+  },
+  "personalMail": "juan@personal.com",
+  "phoneExt": "443",
+  "phoneNumber": 636109473,
+  "position": "Comercial España",
+  "status": "Alta",
+  "studies": "ADE",
+  "profilePic": "https://images.pexels.com/photos/18095770/pexels-photo-18095770/free-photo-of-hombre-modelo-maqueta-en-pie.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "confirmed": false,
+  "removedAt": {
+    "$date": "2024-12-31T12:57:50.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663e773de5cf4bc409c100b4"
+  },
+  "email": "ana.lopez@example.com",
+  "password": "$2a$10$oftIwio9FP.tossXZ2sH/.OldyXpeiiPKR24wby4uyQBXeZQ7RIXW",
+  "profileType": "Employee",
+  "dni": "43210987F",
+  "name": "Ana",
+  "surname": "Lopez Gonzalez",
+  "createdAt": {
+    "$date": "2024-05-10T19:36:29.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T14:54:11.463Z"
+  },
+  "__v": 0,
+  "departmentId": {
+    "$oid": "66732b62889b8c45cb8ed3a5"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "address": "Calle Manzana, 96. 28504",
+  "bankAccount": "ES12 8502 4754 2946",
+  "birthDate": {
+    "$date": "1992-11-24T23:00:00.000Z"
+  },
+  "personalMail": "ana@personal.com",
+  "phoneExt": "444",
+  "phoneNumber": 654109856,
+  "position": "Relaciones Publicas",
+  "status": "Baja medica",
+  "studies": "Periodismo",
+  "profilePic": "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "confirmed": true
+},
+{
+  "_id": {
+    "$oid": "663e781fe5cf4bc409c100b6"
+  },
+  "email": "david.fernandez@example.com",
+  "password": "$2a$10$IeGM4QDckN9XHPxcQLuS4erabbd.m0sOtGU/EByFTbC8wkKzRf0q.",
+  "profileType": "Employee",
+  "dni": "32109876G",
+  "name": "David",
+  "surname": "Fernandez Montes",
+  "createdAt": {
+    "$date": "2024-05-10T19:40:15.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T14:53:50.814Z"
+  },
+  "__v": 0,
+  "status": "Alta",
+  "address": "Calle Naranja, 54. 28504",
+  "bankAccount": "ES12 5830 5825 2947",
+  "birthDate": {
+    "$date": "1995-03-27T22:00:00.000Z"
+  },
+  "personalMail": "david@personal.com",
+  "phoneExt": "445",
+  "phoneNumber": 654287654,
+  "position": "Gerente",
+  "studies": "Licenciatura en Marketing",
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "departmentId": {
+    "$oid": "66732b87889b8c45cb8ed3b2"
+  },
+  "profilePic": "https://images.pexels.com/photos/12637354/pexels-photo-12637354.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "confirmed": true
+},
+{
+  "_id": {
+    "$oid": "663e786fe5cf4bc409c100b8"
+  },
+  "email": "lucia.martin@example.com",
+  "password": "$2a$10$7f6knynThXsQUYOdMNYJ8OKIRC8tm91OLWZdtQfaoUjgkQL8VnQre",
+  "profileType": "Employee",
+  "dni": "21098765H",
+  "name": "Lucia",
+  "surname": "Martin Martinez",
+  "createdAt": {
+    "$date": "2024-05-10T19:41:35.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:16:15.864Z"
+  },
+  "__v": 0,
+  "address": "Calle Mandarina, 54. 28104",
+  "bankAccount": "ES12 4952 10375 2026 1045",
+  "birthDate": {
+    "$date": "1996-08-08T22:00:00.000Z"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "departmentId": {
+    "$oid": "66732b62889b8c45cb8ed3a3"
+  },
+  "personalMail": "lucia@personal.com",
+  "phoneExt": "446",
+  "phoneNumber": 628402845,
+  "position": "Diseñador Grafico",
+  "status": "Alta",
+  "studies": "Artes Visuales",
+  "profilePic": "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "confirmed": true
+},
+{
+  "_id": {
+    "$oid": "663e789ce5cf4bc409c100ba"
+  },
+  "email": "javier.garcia@example.com",
+  "password": "$2a$10$FYJoIziYe1HppSqFhXvmCOrBkhGQf63Lwqsw2or84uPz6ZPF9nOYi",
+  "profileType": "Employee",
+  "dni": "10987654I",
+  "name": "Javier",
+  "surname": "Garcia Rodriguez",
+  "createdAt": {
+    "$date": "2024-05-10T19:42:20.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:16:19.960Z"
+  },
+  "__v": 0,
+  "address": "Calle Pera, 59. 28109",
+  "bankAccount": "ES12 4957 2046 1094 5314",
+  "birthDate": {
+    "$date": "1994-07-20T22:00:00.000Z"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "departmentId": {
+    "$oid": "66732b87889b8c45cb8ed3b2"
+  },
+  "personalMail": "javier@personal.com",
+  "phoneExt": "447",
+  "phoneNumber": 640294865,
+  "position": "Coordinador",
+  "status": "Alta",
+  "studies": "Licenciatura en Logística"
+},
+{
+  "_id": {
+    "$oid": "663e78c8e5cf4bc409c100bc"
+  },
+  "email": "carlos.martinez@example.com",
+  "password": "$2a$10$12PcuLLQiHuv3wGmfvRAIuiUEczV4vErar08FCwd/Oh5eCgzUUQUi",
+  "profileType": "Employee",
+  "dni": "54321098E",
+  "name": "Carlos",
+  "surname": "Martinez Sanchez",
+  "createdAt": {
+    "$date": "2024-05-10T19:43:04.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T15:35:39.139Z"
+  },
+  "__v": 0,
+  "address": "Calle Uva, 39. 28405",
+  "bankAccount": "ES12 4956 0035 2294 2994",
+  "birthDate": {
+    "$date": "1993-02-11T22:00:00.000Z"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "departmentId": {
+    "$oid": "66588a2e0e5c0815ba5ab9b2"
+  },
+  "personalMail": "carlos@personal.com",
+  "phoneExt": "448",
+  "phoneNumber": 648104128,
+  "position": "Tesoreria",
+  "status": "Alta",
+  "studies": "Licenciatura en Contabilidad",
+  "removedAt": {
+    "$date": "2024-06-11T15:35:39.139Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663e78e9e5cf4bc409c100be"
+  },
+  "email": "alberto.lopez@example.com",
+  "password": "$2a$10$sfEvv173UFG5yry6JeXJE..veq.TnOO1XJ.32CtEmnGpFNqk05LXC",
+  "profileType": "Employee",
+  "dni": "98765432K",
+  "name": "Alberto",
+  "surname": "Lopez Sanchez",
+  "createdAt": {
+    "$date": "2024-05-10T19:43:37.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T10:55:59.523Z"
+  },
+  "__v": 0,
+  "address": "Calle Tamarindo, 39. 28400",
+  "bankAccount": "ES12 0048 2749 2046 4235",
+  "birthDate": {
+    "$date": "1992-07-17T22:00:00.000Z"
+  },
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "departmentId": {
+    "$oid": "66732b87889b8c45cb8ed3b6"
+  },
+  "personalMail": "alberto@personal.com",
+  "phoneExt": "449",
+  "phoneNumber": 662304486,
+  "position": "Soporte Técnico",
+  "status": "Alta",
+  "studies": "Ingenieria Informatica",
+  "confirmed": true
+},
+{
+  "_id": {
+    "$oid": "663e791be5cf4bc409c100c0"
+  },
+  "email": "laura.gomez@example.com",
+  "password": "$2a$10$DeW4IDnPk/5SoyK.od6UzuCKKtc0LymgUx12LRLZcdAaSssXGCW2i",
+  "profileType": "Employee",
+  "dni": "65432109D",
+  "name": "Laura",
+  "surname": "Gomez Rodriguez",
+  "createdAt": {
+    "$date": "2024-05-10T19:44:27.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:18:48.816Z"
+  },
+  "__v": 0,
+  "address": "Calle Tornillo, 75. 28943",
+  "bankAccount": "ES12 7593 2846 4015",
+  "birthDate": {
+    "$date": "1990-10-31T22:00:00.000Z"
+  },
+  "personalMail": "laura@personal.com",
+  "phoneExt": "440",
+  "phoneNumber": 662409572,
+  "position": "Editor",
+  "status": "Alta",
+  "studies": "Estudios Editoriales",
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "departmentId": {
+    "$oid": "66732b87889b8c45cb8ed3b8"
+  },
+  "profilePic": "https://images.pexels.com/photos/4467687/pexels-photo-4467687.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "confirmed": true
+},
+{
+  "_id": {
+    "$oid": "669aa1bc3dde573aa65657ea"
+  },
+  "email": "oriol.orriols@gmail.com",
+  "password": "$2a$10$3QwjGEXYwMD9krcsjTHWTOE8WN1U33D4YnofZt9seXtclcV/tQqCC",
+  "profileType": "HR",
+  "dni": "87654321J",
+  "departmentId": {
+    "$oid": "66732b87889b8c45cb8ed3b6"
+  },
+  "name": "Oriol",
+  "surname": "Orriols Amate",
+  "address": "Av. Barcelona 4, 2 1",
+  "status": "Alta",
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "confirmed": true,
+  "createdAt": {
+    "$date": "2024-07-19T17:26:20.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-31T12:58:47.704Z"
+  },
+  "__v": 0,
+  "profilePic": "http://res.cloudinary.com/dcg3nn5kv/image/upload/v1735649927/xtvir5ctwsj8c164mvhg.jpg",
+  "birthDate": null,
+  "position": "Full Stack Developer",
+  "phoneExt": "448"
+},
+{
+  "_id": {
+    "$oid": "669f8b0a082965b3202de515"
+  },
+  "email": "avtoral94@gmail.com",
+  "password": "$2a$10$1aGdTEmNFPhCJx3jZ5DkNeVgUzBDjfINHPT64w.I1LWIcIyJg4cb.",
+  "profileType": "Employee",
+  "dni": "12345678T",
+  "position": "Full Stack Developer",
+  "departmentId": {
+    "$oid": "66732b87889b8c45cb8ed3b6"
+  },
+  "name": "Angela",
+  "surname": "Toral",
+  "status": "Alta",
+  "companyId": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "confirmed": true,
+  "createdAt": {
+    "$date": "2024-07-23T10:50:50.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T10:54:45.216Z"
+  },
+  "__v": 0,
+  "profilePic": "http://res.cloudinary.com/dcg3nn5kv/image/upload/v1721732084/hkkq6pttsgj00fef7cpf.png"
+}]

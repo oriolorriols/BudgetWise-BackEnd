@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66587f4ed8496cdfba8ec90d"
+  },
+  "companyName": "Editorial Yellow",
+  "companyAddress": "Calle Amarillo, 123",
+  "companyPhone": 912304958,
+  "companyCity": "Barcelona",
+  "companyCountry": "Spain",
+  "companyPlan": "Small",
+  "companyPostalCode": 8568,
+  "companyLogo": "http://res.cloudinary.com/dcg3nn5kv/image/upload/v1720551787/b45m4s9lr4so421qvivo.jpg",
+  "updatedAt": {
+    "$date": "2024-07-17T18:00:57.264Z"
+  },
+  "companyNIF": "81895232H"
+}]

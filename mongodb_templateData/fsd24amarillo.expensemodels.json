@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "6643acb8417a61958d6cc91e"
+  },
+  "absenceId": {
+    "$oid": "663e55442c92e420159c9921"
+  },
+  "paymentMethod": "Personal",
+  "createdAt": {
+    "$date": "2024-01-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:05:54.202Z"
+  },
+  "__v": 0,
+  "expenseStatus": "Pendiente",
+  "expenseFood": null,
+  "expenseTravel": 125,
+  "expenseLodging": null,
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721128144/korgvednamentl5ggi4u.png",
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721405153/qdxd4p7h2rqfbltytqdo.png"
+  ],
+  "expensePayment": null
+},
+{
+  "_id": {
+    "$oid": "664a356cc7ff590c12ef692a"
+  },
+  "creditCardEnd": 4433,
+  "paymentMethod": "Business Card",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:05:30.093Z"
+  },
+  "absenceId": {
+    "$oid": "6650d2c9f6dabfee8394eda7"
+  },
+  "expenseStatus": "Pendiente",
+  "expenseFood": 43,
+  "expenseLodging": 230,
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721405127/tlcroqpdmjbltg5aafwq.png",
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721405127/tqtikkb8weigyncn1gyf.png",
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721405129/hcie7atyb1qkbjdgiewo.png"
+  ],
+  "expenseTravel": 56,
+  "expensePayment": null
+},
+{
+  "_id": {
+    "$oid": "665769ea0e5c0815bac7212f"
+  },
+  "absenceId": {
+    "$oid": "663e59a1e797deb549c17bd9"
+  },
+  "paymentMethod": "Personal",
+  "createdAt": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T17:32:34.458Z"
+  },
+  "__v": 0,
+  "expenseStatus": "Aprobado",
+  "expenseLodging": 260,
+  "expenseTravel": 165,
+  "expensePayment": {
+    "$date": "2024-07-17T00:00:00.000Z"
+  },
+  "expenseFood": null,
+  "expenseProof": []
+},
+{
+  "_id": {
+    "$oid": "6686a5135ec6c3f62a4a4b05"
+  },
+  "absenceId": {
+    "$oid": "66869cc71c0465765a735676"
+  },
+  "paymentMethod": "Business Card",
+  "createdAt": {
+    "$date": "2024-04-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T00:00:00.000Z"
+  },
+  "__v": 0,
+  "expenseStatus": "Pendiente",
+  "creditCardEnd": 5678,
+  "expenseFood": 186,
+  "expenseLodging": 402,
+  "expenseTravel": 176
+},
+{
+  "_id": {
+    "$oid": "6686a5b55ec6c3f62a4a925c"
+  },
+  "absenceId": {
+    "$oid": "6686a29a1c0465765a735678"
+  },
+  "paymentMethod": "Personal",
+  "createdAt": {
+    "$date": "2024-06-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T00:00:00.000Z"
+  },
+  "__v": 0,
+  "expenseStatus": "Pendiente",
+  "expenseFood": 569
+},
+{
+  "_id": {
+    "$oid": "6686a5fa5ec6c3f62a4ab0ba"
+  },
+  "absenceId": {
+    "$oid": "6686a3221c0465765a735679"
+  },
+  "paymentMethod": "Personal",
+  "createdAt": {
+    "$date": "2024-07-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T00:00:00.000Z"
+  },
+  "__v": 0,
+  "expenseStatus": "Pendiente",
+  "expenseFood": 497
+},
+{
+  "_id": {
+    "$oid": "6686a6405ec6c3f62a4ace16"
+  },
+  "absenceId": {
+    "$oid": "6686a3d21c0465765a73567a"
+  },
+  "paymentMethod": "Business Card",
+  "createdAt": {
+    "$date": "2024-07-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:54:05.986Z"
+  },
+  "__v": 0,
+  "expenseStatus": "Pendiente",
+  "creditCardEnd": 7070,
+  "expenseFood": 349,
+  "expenseLodging": 863,
+  "expenseTravel": 90,
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721141219/dua631w6ajufs7nzwx58.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66956e222249a26e6a4ebf89"
+  },
+  "absenceId": {
+    "$oid": "6690e1749b37ae356435e4ec"
+  },
+  "paymentMethod": "Business Card",
+  "creditCardEnd": 4332,
+  "expenseTravel": 56,
+  "expenseStatus": "Pendiente",
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721069091/yxuc0zldszcnkls2i9t5.png"
+  ],
+  "createdAt": {
+    "$date": "2024-07-15T18:44:50.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:55:00.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669aa2643dde573aa6565831"
+  },
+  "absenceId": {
+    "$oid": "669aa2433dde573aa6565824"
+  },
+  "paymentMethod": "Personal",
+  "expenseTravel": 60,
+  "expenseStatus": "Aprobado",
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721410150/cr7l3ekc6usmzaieprmy.png",
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721410150/ck27dzb7bdfwcqjfugq3.png",
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721410183/ywtcdhnkwdgipqxenua2.png"
+  ],
+  "createdAt": {
+    "$date": "2024-07-19T17:29:08.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:30:21.417Z"
+  },
+  "__v": 0,
+  "expensePayment": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669f8e83082965b3202de5f5"
+  },
+  "absenceId": {
+    "$oid": "669f8e02082965b3202de5d0"
+  },
+  "paymentMethod": "Business Card",
+  "creditCardEnd": 4332,
+  "expenseTravel": 56,
+  "expenseStatus": "Pendiente",
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721732740/n6f3y2ru9vyntkgiz8sc.png"
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T11:05:39.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T12:06:16.393Z"
+  },
+  "__v": 0,
+  "expensePayment": null
+},
+{
+  "_id": {
+    "$oid": "669f8ea2082965b3202de609"
+  },
+  "absenceId": {
+    "$oid": "669f8e02082965b3202de5d0"
+  },
+  "paymentMethod": "Personal",
+  "expenseLodging": 54,
+  "expenseStatus": "Aprobado",
+  "expenseProof": [
+    "https://res.cloudinary.com/dcg3nn5kv/image/upload/v1721732771/rt7a2xk6skf6nk67iyjp.png"
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T11:06:10.149Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T11:07:12.349Z"
+  },
+  "__v": 0,
+  "expensePayment": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  }
+}]

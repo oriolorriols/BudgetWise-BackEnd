@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "667329df889b8c45cb8ed351"
+  },
+  "departmentName": "Recursos Humanos",
+  "createdAt": {
+    "$date": "2024-06-19T18:56:31.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:45.921Z"
+  },
+  "__v": 0,
+  "departmentBudget": 1000
+},
+{
+  "_id": {
+    "$oid": "66732b62889b8c45cb8ed3a3"
+  },
+  "departmentName": "Producción",
+  "createdAt": {
+    "$date": "2024-06-19T19:02:58.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:45.929Z"
+  },
+  "__v": 0,
+  "departmentBudget": 20000
+},
+{
+  "_id": {
+    "$oid": "66732b62889b8c45cb8ed3a5"
+  },
+  "departmentName": "Marketing",
+  "createdAt": {
+    "$date": "2024-06-19T19:02:58.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:45.917Z"
+  },
+  "__v": 0,
+  "departmentBudget": 25000
+},
+{
+  "_id": {
+    "$oid": "66732b87889b8c45cb8ed3b2"
+  },
+  "departmentName": "Logistica",
+  "createdAt": {
+    "$date": "2024-06-19T19:03:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:46.251Z"
+  },
+  "__v": 0,
+  "departmentBudget": 500
+},
+{
+  "_id": {
+    "$oid": "66732b87889b8c45cb8ed3b4"
+  },
+  "departmentName": "Post-Venta",
+  "createdAt": {
+    "$date": "2024-06-19T19:03:35.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:45.948Z"
+  },
+  "__v": 0,
+  "departmentBudget": 30000
+},
+{
+  "_id": {
+    "$oid": "66732b87889b8c45cb8ed3b6"
+  },
+  "departmentName": "IT",
+  "createdAt": {
+    "$date": "2024-06-19T19:03:35.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:45.924Z"
+  },
+  "__v": 0,
+  "departmentBudget": 17000
+},
+{
+  "_id": {
+    "$oid": "66732b87889b8c45cb8ed3b8"
+  },
+  "departmentName": "Editorial",
+  "createdAt": {
+    "$date": "2024-06-19T19:03:35.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:46.216Z"
+  },
+  "__v": 0,
+  "departmentBudget": 10000
+},
+{
+  "_id": {
+    "$oid": "66732f08889b8c45cb8ed5ba"
+  },
+  "departmentName": "Financiero",
+  "createdAt": {
+    "$date": "2024-06-19T19:18:32.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:45.947Z"
+  },
+  "__v": 0,
+  "departmentBudget": 10000
+},
+{
+  "_id": {
+    "$oid": "66732f08889b8c45cb8ed5bc"
+  },
+  "departmentName": "Comercial",
+  "createdAt": {
+    "$date": "2024-06-19T19:18:32.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:25:46.228Z"
+  },
+  "__v": 0,
+  "departmentBudget": 35000
+}]

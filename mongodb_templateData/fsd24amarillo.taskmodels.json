@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "669a8f463dde573aa656549d"
+  },
+  "goalId": {
+    "$oid": "669a8f0a3dde573aa6565489"
+  },
+  "taskStatus": "Completado",
+  "taskName": "Contratar 4 Personas",
+  "createdAt": {
+    "$date": "2024-07-19T16:07:34.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:36:18.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a8f583dde573aa65654a4"
+  },
+  "goalId": {
+    "$oid": "669a8f0a3dde573aa6565489"
+  },
+  "taskStatus": "Pendiente",
+  "taskName": "Optimizar linea de producción",
+  "createdAt": {
+    "$date": "2024-07-19T16:07:52.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:35:46.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a8f693dde573aa65654ab"
+  },
+  "goalId": {
+    "$oid": "669a8f0a3dde573aa6565489"
+  },
+  "taskStatus": "Pendiente",
+  "taskName": "Redefinir Roles en Producción",
+  "createdAt": {
+    "$date": "2024-07-19T16:08:09.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:36:14.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a8f8b3dde573aa65654e0"
+  },
+  "goalId": {
+    "$oid": "669a8f0a3dde573aa6565489"
+  },
+  "taskStatus": "Completado",
+  "taskName": "Añadir dos líneas nuevas en producción",
+  "createdAt": {
+    "$date": "2024-07-19T16:08:43.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:08:54.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a90453dde573aa6565576"
+  },
+  "goalId": {
+    "$oid": "669a901a3dde573aa6565558"
+  },
+  "taskStatus": "Completado",
+  "taskName": "Contratar 5",
+  "createdAt": {
+    "$date": "2024-07-19T16:11:49.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:11:56.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a90f53dde573aa65655e8"
+  },
+  "goalId": {
+    "$oid": "669a90e53dde573aa65655da"
+  },
+  "taskStatus": "Pendiente",
+  "taskName": "Tapa Blanda",
+  "createdAt": {
+    "$date": "2024-07-19T16:14:45.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:14:45.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a911d3dde573aa656561e"
+  },
+  "goalId": {
+    "$oid": "669a90e53dde573aa65655da"
+  },
+  "taskStatus": "Completado",
+  "taskName": "Tapa dura",
+  "createdAt": {
+    "$date": "2024-07-19T16:15:25.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:15:32.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669aa4643dde573aa656596d"
+  },
+  "goalId": {
+    "$oid": "669a8f0a3dde573aa6565489"
+  },
+  "taskStatus": "Pendiente",
+  "taskName": "dadasd",
+  "createdAt": {
+    "$date": "2024-07-19T17:37:40.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:37:40.646Z"
+  },
+  "__v": 0
+}]

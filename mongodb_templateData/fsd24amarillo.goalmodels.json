@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "66980d8c118fc2e57b4180b8"
+  },
+  "employeeId": {
+    "$oid": "663e773de5cf4bc409c100b4"
+  },
+  "goalName": "1. Estudiar SalesForce Tomo 1",
+  "goalStatus": "Completado",
+  "createdAt": {
+    "$date": "2024-07-17T18:29:32.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:21:39.296Z"
+  },
+  "__v": 0,
+  "removedAt": {
+    "$date": "2024-07-19T17:21:39.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669a51a84b59d0fef9686c53"
+  },
+  "employeeId": {
+    "$oid": "663e65e3071c321e1a16b5a6"
+  },
+  "goalName": "1. Poner a punto la plataforma BudgetWise",
+  "goalStatus": "Pendiente",
+  "createdAt": {
+    "$date": "2024-07-19T11:44:40.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T12:20:47.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a51bb4b59d0fef9686c59"
+  },
+  "employeeId": {
+    "$oid": "663e773de5cf4bc409c100b4"
+  },
+  "goalName": "2. Hacer Fotos al Evento de la Feria de Barcelona",
+  "goalStatus": "Completado",
+  "createdAt": {
+    "$date": "2024-07-19T11:44:59.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:16:48.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a51c84b59d0fef9686c5f"
+  },
+  "employeeId": {
+    "$oid": "663e773de5cf4bc409c100b4"
+  },
+  "goalName": "3. Mejorar la imagen de marca en un 20%",
+  "goalStatus": "Pendiente",
+  "createdAt": {
+    "$date": "2024-07-19T11:45:12.186Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T12:21:04.506Z"
+  },
+  "__v": 0,
+  "goalDescription": "El objetivo es percibir más calidad en los seguidores de la marca. Teniendo más fidelizaciones."
+},
+{
+  "_id": {
+    "$oid": "669a8f0a3dde573aa6565489"
+  },
+  "employeeId": {
+    "$oid": "663e786fe5cf4bc409c100b8"
+  },
+  "goalName": "1. Mejorar la cadena de producción",
+  "goalStatus": "Completado",
+  "createdAt": {
+    "$date": "2024-07-19T16:06:34.808Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:36:22.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a901a3dde573aa6565558"
+  },
+  "employeeId": {
+    "$oid": "663e786fe5cf4bc409c100b8"
+  },
+  "goalName": "2. Integrar en el flujo de trabajo las 2 impresoras nuevas",
+  "goalStatus": "Completado",
+  "createdAt": {
+    "$date": "2024-07-19T16:11:06.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:13:53.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a90e53dde573aa65655da"
+  },
+  "employeeId": {
+    "$oid": "663e786fe5cf4bc409c100b8"
+  },
+  "goalName": "3. Añadir nuevos acabados en las tapas",
+  "goalStatus": "En proceso",
+  "createdAt": {
+    "$date": "2024-07-19T16:14:29.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T16:15:36.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669aa0663dde573aa6565779"
+  },
+  "employeeId": {
+    "$oid": "663e773de5cf4bc409c100b4"
+  },
+  "goalName": "4. Estudiar Marketing",
+  "goalStatus": "Pendiente",
+  "createdAt": {
+    "$date": "2024-07-19T17:20:38.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:20:38.339Z"
+  },
+  "__v": 0
+}]

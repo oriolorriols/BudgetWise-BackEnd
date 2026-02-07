@@ -1,0 +1,439 @@
+[{
+  "_id": {
+    "$oid": "663e55442c92e420159c9921"
+  },
+  "employeeId": {
+    "$oid": "663e7719e5cf4bc409c100b2"
+  },
+  "startDate": {
+    "$date": "2024-01-03T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "country": "España",
+  "city": "Barcelona",
+  "createdAt": {
+    "$date": "2024-05-10T17:11:32.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:12:28.437Z"
+  },
+  "__v": 0,
+  "continent": "Europa",
+  "absenceName": "Feria del libro Barcelona",
+  "absenceService": "Feria",
+  "absenceCode": null
+},
+{
+  "_id": {
+    "$oid": "663e59a1e797deb549c17bd9"
+  },
+  "employeeId": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "startDate": {
+    "$date": "2024-02-17T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-02-21T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-10T17:30:09.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:18:27.529Z"
+  },
+  "__v": 0,
+  "absenceCodeId": {
+    "$oid": "665381530b11f968a8eefcc5"
+  },
+  "city": "Cancun",
+  "country": "Mexico",
+  "continent": "America",
+  "absenceCode": "PV-0084",
+  "absenceService": "Soporte",
+  "absenceName": "Postventa de Cancún",
+  "removedAt": {
+    "$date": "2024-07-19T17:18:27.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6650d2c9f6dabfee8394eda7"
+  },
+  "employeeId": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "startDate": {
+    "$date": "2024-01-19T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-01-25T00:00:00.000Z"
+  },
+  "country": "Portugal",
+  "city": "Oporto",
+  "createdAt": {
+    "$date": "2024-05-24T19:47:32.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T19:47:11.262Z"
+  },
+  "__v": 0,
+  "absenceCodeId": {
+    "$oid": "6653837bf6dabfee83dac560"
+  },
+  "continent": "Europa",
+  "absenceCode": "PV-0076",
+  "absenceName": "Venta PV-76 150 novelas Portugal",
+  "absenceService": "Venta"
+},
+{
+  "_id": {
+    "$oid": "66869cc71c0465765a735676"
+  },
+  "employeeId": {
+    "$oid": "663e65e3071c321e1a16b5a6"
+  },
+  "absenceCodeId": {
+    "$oid": "66869deb6a828341fbb9d846"
+  },
+  "startDate": {
+    "$date": "2024-03-21T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-03-26T00:00:00.000Z"
+  },
+  "country": "Venezuela",
+  "city": "Caracas",
+  "__v": 0,
+  "continent": "America",
+  "absenceName": "Visita clientes Venezuela",
+  "absenceService": "Demo",
+  "removedAt": {
+    "$date": "2024-07-19T20:04:46.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T20:04:46.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6686a29a1c0465765a735678"
+  },
+  "employeeId": {
+    "$oid": "663e773de5cf4bc409c100b4"
+  },
+  "absenceCodeId": {
+    "$oid": "66869f416a828341fbb9d848"
+  },
+  "startDate": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "country": "Argentina",
+  "city": "Buenos Aires",
+  "__v": 0,
+  "continent": "America",
+  "absenceCode": "PV-0034",
+  "absenceName": "Lanzamiento Argentina 2",
+  "absenceService": "Soporte",
+  "updatedAt": {
+    "$date": "2024-07-23T11:02:57.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6686a3221c0465765a735679"
+  },
+  "employeeId": {
+    "$oid": "663e781fe5cf4bc409c100b6"
+  },
+  "absenceCodeId": {
+    "$oid": "66869f936a828341fbb9d849"
+  },
+  "startDate": {
+    "$date": "2024-07-02T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-10T00:00:00.000Z"
+  },
+  "country": "Canada",
+  "city": "Ottawa",
+  "__v": 0,
+  "continent": "America",
+  "absenceCode": "PV-0063",
+  "absenceName": "Apertura distribuidor Canadá",
+  "absenceService": "Formacion"
+},
+{
+  "_id": {
+    "$oid": "6686a3d21c0465765a73567a"
+  },
+  "employeeId": {
+    "$oid": "663e786fe5cf4bc409c100b8"
+  },
+  "absenceCodeId": {
+    "$oid": "66869feb6a828341fbb9d84a"
+  },
+  "startDate": {
+    "$date": "2024-06-23T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-06-30T00:00:00.000Z"
+  },
+  "country": "Estados Unidos",
+  "city": "Miami",
+  "__v": 0,
+  "continent": "America",
+  "absenceCode": "PV-0078",
+  "absenceName": "Venta 500 novelas USA",
+  "absenceService": "Venta"
+},
+{
+  "_id": {
+    "$oid": "668ed77a3f715f3cb847fe89"
+  },
+  "employeeId": {
+    "$oid": "663e7719e5cf4bc409c100b2"
+  },
+  "startDate": {
+    "$date": "2024-07-21T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "country": "Angola",
+  "city": "Luanda",
+  "continent": "Africa",
+  "absenceName": "Demo Luanda",
+  "absenceService": "Demo",
+  "absenceCode": null,
+  "createdAt": {
+    "$date": "2024-07-10T18:48:26.858Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T18:54:52.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66903861d5b7d7e8964db405"
+  },
+  "employeeId": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "startDate": {
+    "$date": "2024-07-28T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "country": "Argelia",
+  "city": "Argel",
+  "continent": "Africa",
+  "absenceName": "Visita revisión de ventas Argelia",
+  "absenceService": "Post-Venta",
+  "absenceCode": "PV-0090",
+  "createdAt": {
+    "$date": "2024-07-11T19:54:09.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T18:54:44.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690e1749b37ae356435e4ec"
+  },
+  "employeeId": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "startDate": {
+    "$date": "2024-07-22T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "country": "Australia",
+  "city": "Sidney",
+  "continent": "Oceania",
+  "absenceName": "Visita para futuros partners Sidney",
+  "absenceService": "Otros",
+  "createdAt": {
+    "$date": "2024-07-12T07:55:32.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T07:56:43.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66910c1507290fe0a1819a84"
+  },
+  "employeeId": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "startDate": {
+    "$date": "2024-02-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-02-28T00:00:00.000Z"
+  },
+  "country": "Francia",
+  "city": "Paris",
+  "continent": "Europa",
+  "absenceName": "Venta PV-84 225 novelas Francia",
+  "absenceService": "Venta",
+  "absenceCode": "PV-0084 prueba",
+  "createdAt": {
+    "$date": "2024-07-12T10:57:25.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T10:57:25.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693ae461a5f5da8fdf2bc15"
+  },
+  "employeeId": {
+    "$oid": "663e7719e5cf4bc409c100b2"
+  },
+  "startDate": {
+    "$date": "2024-07-21T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-24T00:00:00.000Z"
+  },
+  "country": "Nueva Zelanda",
+  "city": "Wellington",
+  "continent": "Oceania",
+  "absenceName": "Venta 450 novelas a NZ",
+  "absenceService": "Venta",
+  "absenceCode": "PV-0090",
+  "createdAt": {
+    "$date": "2024-07-14T10:53:58.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T18:55:35.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669568b72249a26e6a4ebe87"
+  },
+  "employeeId": {
+    "$oid": "663e7719e5cf4bc409c100b2"
+  },
+  "startDate": {
+    "$date": "2024-07-16T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "country": "Japon",
+  "city": "Tokio",
+  "continent": "Asia",
+  "absenceName": "Revisión de ventas Tokio ",
+  "absenceService": "Post-Venta",
+  "absenceCode": "PV-0090",
+  "createdAt": {
+    "$date": "2024-07-15T18:21:43.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T18:21:43.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669aa0083dde573aa656575a"
+  },
+  "employeeId": {
+    "$oid": "663e76e1e5cf4bc409c100b0"
+  },
+  "startDate": {
+    "$date": "2024-07-08T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "country": "Maldivas",
+  "city": "Maldivas",
+  "continent": "Asia",
+  "absenceName": "Viaje a las Maldivas",
+  "absenceService": "Demo",
+  "createdAt": {
+    "$date": "2024-07-19T17:19:04.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T17:19:16.594Z"
+  },
+  "__v": 0,
+  "removedAt": {
+    "$date": "2024-07-19T17:19:16.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669aa2433dde573aa6565824"
+  },
+  "employeeId": {
+    "$oid": "669aa1bc3dde573aa65657ea"
+  },
+  "startDate": {
+    "$date": "2024-07-17T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "country": "España",
+  "city": "Barcelona",
+  "continent": "Europa",
+  "absenceName": "Visita a España",
+  "absenceService": "Formacion",
+  "createdAt": {
+    "$date": "2024-07-19T17:28:35.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T11:04:00.946Z"
+  },
+  "__v": 0,
+  "removedAt": {
+    "$date": "2024-07-23T11:04:00.946Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669f8e02082965b3202de5d0"
+  },
+  "employeeId": {
+    "$oid": "669f8b0a082965b3202de515"
+  },
+  "startDate": {
+    "$date": "2024-07-28T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "country": "Japon",
+  "city": "Tokio",
+  "continent": "Asia",
+  "absenceName": "Viaje nuevo",
+  "absenceService": "Demo",
+  "createdAt": {
+    "$date": "2024-07-23T11:03:30.229Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T11:03:30.229Z"
+  },
+  "__v": 0
+}]
